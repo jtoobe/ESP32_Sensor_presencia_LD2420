@@ -1,2 +1,6 @@
 Utilitarios de configuracion 
 y verificacion de funcionamiento
+
+HLK-LD2420_TOOL -English_OK.zip  es un urilitario que permite configurar el LD2420
+
+HLK-2420_TOOL_v1.0.0.2_OK.zip    es un utilitario que permite ver los datos en vivo (esta en ingles, pero cuando se presionan los botones pasan a estar en chino...)
